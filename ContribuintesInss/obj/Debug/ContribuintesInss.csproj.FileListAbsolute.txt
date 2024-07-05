@@ -1,0 +1,7 @@
+C:\Users\HeloisaSperendio\source\repos\ContribuintesInss\ContribuintesInss\bin\Debug\ContribuintesInss.exe.config
+C:\Users\HeloisaSperendio\source\repos\ContribuintesInss\ContribuintesInss\bin\Debug\ContribuintesInss.exe
+C:\Users\HeloisaSperendio\source\repos\ContribuintesInss\ContribuintesInss\bin\Debug\ContribuintesInss.pdb
+C:\Users\HeloisaSperendio\source\repos\ContribuintesInss\ContribuintesInss\obj\Debug\ContribuintesInss.csproj.AssemblyReference.cache
+C:\Users\HeloisaSperendio\source\repos\ContribuintesInss\ContribuintesInss\obj\Debug\ContribuintesInss.csproj.CoreCompileInputs.cache
+C:\Users\HeloisaSperendio\source\repos\ContribuintesInss\ContribuintesInss\obj\Debug\ContribuintesInss.exe
+C:\Users\HeloisaSperendio\source\repos\ContribuintesInss\ContribuintesInss\obj\Debug\ContribuintesInss.pdb

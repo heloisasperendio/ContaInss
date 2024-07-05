@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HeloisaSperendio\\source\\repos\\ContribuintesInss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5098B5-EEF6-4350-97E9-C7C934A2092B}|ContribuintesInss\\ContribuintesInss.csproj|c:\\users\\heloisasperendio\\source\\repos\\contribuintesinss\\contribuintesinss\\contribuinte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5098B5-EEF6-4350-97E9-C7C934A2092B}|ContribuintesInss\\ContribuintesInss.csproj|solutionrelative:contribuintesinss\\contribuinte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5098B5-EEF6-4350-97E9-C7C934A2092B}|ContribuintesInss\\ContribuintesInss.csproj|c:\\users\\heloisasperendio\\source\\repos\\contribuintesinss\\contribuintesinss\\contribuinteindividual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5098B5-EEF6-4350-97E9-C7C934A2092B}|ContribuintesInss\\ContribuintesInss.csproj|solutionrelative:contribuintesinss\\contribuinteindividual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5098B5-EEF6-4350-97E9-C7C934A2092B}|ContribuintesInss\\ContribuintesInss.csproj|c:\\users\\heloisasperendio\\source\\repos\\contribuintesinss\\contribuintesinss\\contribuinteempregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5098B5-EEF6-4350-97E9-C7C934A2092B}|ContribuintesInss\\ContribuintesInss.csproj|solutionrelative:contribuintesinss\\contribuinteempregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContribuinteIndividual.cs",
+              "DocumentMoniker": "C:\\Users\\HeloisaSperendio\\source\\repos\\ContribuintesInss\\ContribuintesInss\\ContribuinteIndividual.cs",
+              "RelativeDocumentMoniker": "ContribuintesInss\\ContribuinteIndividual.cs",
+              "ToolTip": "C:\\Users\\HeloisaSperendio\\source\\repos\\ContribuintesInss\\ContribuintesInss\\ContribuinteIndividual.cs",
+              "RelativeToolTip": "ContribuintesInss\\ContribuinteIndividual.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T23:49:14.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contribuinte.cs",
+              "DocumentMoniker": "C:\\Users\\HeloisaSperendio\\source\\repos\\ContribuintesInss\\ContribuintesInss\\Contribuinte.cs",
+              "RelativeDocumentMoniker": "ContribuintesInss\\Contribuinte.cs",
+              "ToolTip": "C:\\Users\\HeloisaSperendio\\source\\repos\\ContribuintesInss\\ContribuintesInss\\Contribuinte.cs",
+              "RelativeToolTip": "ContribuintesInss\\Contribuinte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T23:28:59.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContribuinteEmpregado.cs",
+              "DocumentMoniker": "C:\\Users\\HeloisaSperendio\\source\\repos\\ContribuintesInss\\ContribuintesInss\\ContribuinteEmpregado.cs",
+              "RelativeDocumentMoniker": "ContribuintesInss\\ContribuinteEmpregado.cs",
+              "ToolTip": "C:\\Users\\HeloisaSperendio\\source\\repos\\ContribuintesInss\\ContribuintesInss\\ContribuinteEmpregado.cs",
+              "RelativeToolTip": "ContribuintesInss\\ContribuinteEmpregado.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T23:32:46.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
